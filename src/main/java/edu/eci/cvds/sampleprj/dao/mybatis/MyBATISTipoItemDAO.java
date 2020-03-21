@@ -23,7 +23,8 @@ public class MyBATISTipoItemDAO implements TipoItemDAO {
 
     public void save(String des) throws PersistenceException {
         try {
-            tipoItemMapper.addTipoItem(des);;
+            tipoItemMapper.addTipoItem(des);
+            ;
         } catch (org.apache.ibatis.exceptions.PersistenceException e) {
             throw new PersistenceException("Error al guardar la descripción ", e);
         }

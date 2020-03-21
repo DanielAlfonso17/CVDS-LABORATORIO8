@@ -12,6 +12,7 @@ public interface TipoItemDAO {
 
     public TipoItem load(int id) throws PersistenceException;
 
-
-    public List<TipoItem> loadAll() throws  PersistenceException;
+    @Transactional
+    public void save(String des) throws PersistenceException;
+    public List<TipoItem> loadAll() throws PersistenceException;
 }

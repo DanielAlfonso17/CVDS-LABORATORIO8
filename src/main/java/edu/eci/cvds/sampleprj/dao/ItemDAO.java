@@ -7,6 +7,7 @@ import org.mybatis.guice.transactional.Transactional;
 import java.util.List;
 
 public interface ItemDAO {
+
     @Transactional
     public void save(Item it) throws PersistenceException;
 
@@ -16,7 +17,7 @@ public interface ItemDAO {
 
     public List<Item> loadAvailableItems() throws PersistenceException;
 
-    public TipoItem loadTipoItem(int id) throws  PersistenceException;
+    public TipoItem loadTipoItem(int id) throws PersistenceException;
 
     public long consultarCostoAlquiler(int iditem, int numdias) throws PersistenceException;
 
@@ -24,5 +25,5 @@ public interface ItemDAO {
     public void actualizarTarifa(int id, long tarifa) throws PersistenceException;
 
     @Transactional
-    public void addItem(Item i) throws  PersistenceException;
+    public void addItem(Item i) throws PersistenceException;
 }

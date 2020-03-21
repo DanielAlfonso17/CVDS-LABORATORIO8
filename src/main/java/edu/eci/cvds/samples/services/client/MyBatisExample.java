@@ -76,7 +76,7 @@ public class MyBatisExample {
         System.out.println("");
         System.out.println("Imprimiendo consulta de items id");
         System.out.println("");
-        System.out.println(im.consultarItem(1234));
+        System.out.println(im.consultarItem(3));
 
         sqlss.commit();
         
