@@ -8,6 +8,6 @@
 </head>
 
 <body>
-<p> </p>
+<p> https://cvdslaboratorio8.herokuapp.com/faces/registrarCliente.xhtml</p>
 </body>
 </html>
