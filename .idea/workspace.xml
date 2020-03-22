@@ -3,21 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ffb80da9-c392-4faa-b0a5-d404ab48f576" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/eci/cvds/sampleprj/dao/ItemDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/eci/cvds/sampleprj/dao/ItemDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/eci/cvds/sampleprj/dao/PersistenceException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/eci/cvds/sampleprj/dao/PersistenceException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/eci/cvds/sampleprj/dao/TipoItemDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/eci/cvds/sampleprj/dao/TipoItemDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/eci/cvds/sampleprj/dao/mybatis/MyBATISItemDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/eci/cvds/sampleprj/dao/mybatis/MyBATISItemDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/eci/cvds/sampleprj/dao/mybatis/MyBATISItemRentadoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/eci/cvds/sampleprj/dao/mybatis/MyBATISItemRentadoDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/eci/cvds/sampleprj/dao/mybatis/MyBATISTipoItemDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/eci/cvds/sampleprj/dao/mybatis/MyBATISTipoItemDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/eci/cvds/sampleprj/dao/mybatis/mappers/ClienteMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/eci/cvds/sampleprj/dao/mybatis/mappers/ClienteMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/eci/cvds/sampleprj/dao/mybatis/mappers/ItemMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/eci/cvds/sampleprj/dao/mybatis/mappers/ItemMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/eci/cvds/sampleprj/jdbc/example/JDBCExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/eci/cvds/sampleprj/jdbc/example/JDBCExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/eci/cvds/samples/services/ServiciosAlquilerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/eci/cvds/samples/services/ServiciosAlquilerFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/eci/cvds/samples/services/client/MyBatisExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/eci/cvds/samples/services/client/MyBatisExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mappers/ClienteMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mappers/ClienteMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mappers/ItemMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mappers/ItemMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mappers/ItemRentadoMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mappers/ItemRentadoMapper.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +82,7 @@
       <workItem from="1583986905855" duration="68000" />
       <workItem from="1584551613293" duration="3069000" />
       <workItem from="1584657674552" duration="16000" />
-      <workItem from="1584829828672" duration="3997000" />
+      <workItem from="1584829828672" duration="5382000" />
     </task>
     <servers />
   </component>
@@ -109,6 +94,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="73" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1584551634047" />
+    <state x="532" y="222" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584835534106">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="532" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1584835534106" />
     <state width="1342" height="210" key="GridCell.Tab.0.bottom" timestamp="1583986427356">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -129,5 +118,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583986932151" />
+    <state x="209" y="38" key="new project wizard" timestamp="1584835502355">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="38" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1584835502355" />
   </component>
 </project>
