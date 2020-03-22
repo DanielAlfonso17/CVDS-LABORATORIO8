@@ -10,3 +10,6 @@ https://app.codacy.com/manual/DanielAlfonso17/CVDS-LABORATORIO8/commits?bid=1712
 
 Link de heroku: 
 https://dashboard.heroku.com/apps/cvdslaboratorio8
+
+Link de despliegue de heroku 
+https://cvdslaboratorio8.herokuapp.com/faces/registrarCliente.xhtml
